@@ -26,7 +26,7 @@
 <a href="https://github.com/tsegayhagos" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/tsegayhagos" target="blank">
+<a href="https://www.linkedin.com/in/tsegay-hagos-6210a9449" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
 </a>
 </p>

@@ -26,6 +26,9 @@
 ### 🌐 Connect with Me & Work Inquiries
 
 <p align="left">
+  <a href="https://www.upwork.com/freelancers/~01f0a40c44c27fc196" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" height="30" width="40" alt="Upwork" />
+  </a>
   <a href="https://www.linkedin.com/in/tsegay-hagos-6210a9449" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>

@@ -13,13 +13,13 @@
 ### 🚀 About Me
 
 > **Driven tech specialist with hands-on experience in AI Operations, Data Annotation, and Software Support.**  
-> I assist global clients and innovative companies by refining datasets, resolving technical application issues, and optimizing digital workflows. Passionate about leveraging AI and technology to deliver quality remote solutions.
+> I assist global clients and innovative companies by refining datasets, resolving technical application issues, and optimizing digital workflows. Passionate about leveraging AI and modern engineering to build high-impact, scalable digital solutions.
 
-- 💼 **Current Role:** Self-Employed Specialist in AI-Based App & Software Assistance, Data Annotation, and SaaS Architecture.
-- 🔭 **Featured Software:** Developing [Enqu Hotel Management System SaaS (PMS)](https://github.com/tsegayhagos/Enqu-hotel-Management-system-SaaS) & [Enku Hotel Mobile App](https://github.com/tsegayhagos/enku-hotel-mobile-app).
-- 🌱 **Expertise:** AI Operations, Data Quality & Annotation, Software Support, Creative Problem Solving & Process Automation.
-- 💬 **Ask Me About:** SaaS Development, Artificial Intelligence Workflows, Data Analysis, Laravel, React Native, TypeScript.
-- 📫 **Location:** Addis Ababa, Ethiopia • Open to Global & Remote Client Collaborations.
+- 🤖 **AI & Machine Learning:** Developing ML models and intelligent data processing workflows (including cognitive architectures like *AbisiniaIQ*).
+- 🏢 **Enterprise SaaS & Cloud Solutions:** Architecting scalable, multi-tenant cloud platforms, hotel management ecosystems (PMS), and automated business services.
+- 📱 **Mobile & Full-Stack Engineering:** Engineering cross-platform mobile apps (React Native / Expo) and modern web systems (Laravel, React, TypeScript, Python).
+- 🔄 **Data Operations & Support:** Providing end-to-end dataset refinement, data annotation quality assurance, and remote software technical support.
+- 📂 **Explore More:** Check out my pinned and public [Repositories](https://github.com/tsegayhagos?tab=repositories) for detailed project architectures and codebase implementations.
 
 ---
 
